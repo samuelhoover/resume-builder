@@ -1,3 +1,5 @@
+# pyright: basic
+
 from textwrap import dedent
 from typing import Optional, List, Union
 import argparse
@@ -158,7 +160,7 @@ class Resume:
         if section.title:
             section_html += f"<h2>{section.title}</h2>\n"
         for entry in section.entries:
-            section_html += f'<div class="entry">\n'
+            section_html += '<div class="entry">\n'
             if entry.title:
                 section_html += f"<h3>{entry.title}</h3>\n"
             if entry.caption:
