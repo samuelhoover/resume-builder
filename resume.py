@@ -70,7 +70,7 @@ resume = Resume(
                     dates="Jan 2019 - Dec 2020",
                     description=BulletedList(
                         [
-                            "High-throughput virtual screening of nanoporous materials utilizing convolutional neural networks",
+                            "Utilized convolutional neural networks for high-throughput virtual screening of nanoporous materials",
                             "Wrote deep learning pipeline using custom PyTorch modules to handle 3D volumetric data",
                             # "Computed force field parameters for organic small molecules using the Schr&ouml;dinger suite",
                         ]
