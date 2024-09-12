@@ -103,7 +103,7 @@ resume = Resume(
                     title="Nanopore Sequencing: From Genomes to Proteomes",
                     description="Computational design engine for accurate and efficient sequencing of DNA and RNA",
                     location="Boston, MA",
-                    dates="April 2022",
+                    dates="Apr 2022",
                 ),
             ],
         ),
